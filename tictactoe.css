@@ -1,0 +1,68 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/glowing-light-effects-collection-isolated-dark-background_260559-192.jpg?w=996&t=st=1708955630~exp=1708956230~hmac=12fbbbd47329ec9f95063bb4e109b992af695b63551407dbf7499567b23d1541);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#t1, #t2, #t3, #t4, #t5, #t6, #t7, #t8, #t9 {
+    width: 80px;
+    height: 80px;
+}
+
+table {
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+button:hover {
+    background-color: red;
+}
+
+h1 {
+    color: aliceblue;
+    margin-left: -3%;
+    margin-right: -0.3%;
+    background-color: black;
+    padding: 20px;
+    margin-top: -20px;
+}
+
+#r1 {
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: goldenrod;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-left: 45%;
+    color: gold;
+    text-shadow: 2px 2px black;
+}
+
+h3 {
+    margin-left: 10%;
+    color: rgb(25, 4, 4);
+    text-decoration-color: burlywood;
+    text-shadow: 5px 5px solid black;
+}
+
+#result-display {
+    margin-top: 200px;
+    font-size: 240px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color :rgb(218, 19, 19);
+}
